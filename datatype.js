@@ -20,3 +20,4 @@ let n=null;
 console.log(typeof(n));
 
 let v="saravana";
+console.log(v);
