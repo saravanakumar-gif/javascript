@@ -18,3 +18,5 @@ console.log(typeof(b1));
 
 let n=null;
 console.log(typeof(n));
+
+let v="saravana";
